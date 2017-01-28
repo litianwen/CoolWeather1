@@ -1,0 +1,7 @@
+#Sat Jan 28 16:04:11 CST 2017
+base.0=C\:\\Users\\Administrator\\Desktop\\CoolWeather1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8fb07656b4090f7a88f01867dc7b58d18a7e4b9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\CoolWeather1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6ba72d96835a19aa40b71930f0fad20ba6f5703b\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\CoolWeather1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6ba72d96835a19aa40b71930f0fad20ba6f5703b
+file.0=C\:\\Users\\Administrator\\Desktop\\CoolWeather1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8fb07656b4090f7a88f01867dc7b58d18a7e4b9\\classes.dex
